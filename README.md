@@ -15,6 +15,7 @@ Se quiser adicionar links, pontos de vista documentação de outros dominíos pa
 - Contrato Sensedia deliberação sobre contratação de squad tickets e pleito de pagamentos retroativos
 
 ```
+2.3
 Cronograma já não está desenhando?
 
 Consentimento único carece de info
@@ -31,6 +32,7 @@ POST e GET.
 - Avaliação da ussie 169: duvida sobre cenarios de validação assincrona @ https://gitlab.com/obb1/certification/-/issues/169
 
 ```
+2.3
 Continuação dos debates evolutivos dos temas de end2endId para a v2.0
 ```
 

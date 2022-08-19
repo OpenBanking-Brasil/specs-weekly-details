@@ -41,6 +41,10 @@ Continuação dos debates evolutivos dos temas de end2endId para a v2.0
 
 ## quinta
 - Transação temporizada 
+```
+1.1 
+Temos uma proposta de usar o mesmo PATCH que revogaria pagamento agendado e uma adição de novo status TEMP na maquina de pagamentos para qualificar este novos status
+```
 
 ## sexta
 - Avalianação de resultado da pesquisa sobre campo "não se aplica" nas APIS da fase 2. 

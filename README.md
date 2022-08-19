@@ -38,7 +38,7 @@ Continuação dos debates evolutios dos temas de end2endId para a v2.0
 -  Melhorias descrição do transactionIdentification e end2endId
 
 ## quinta
-- Transação temporizada (1.1 irá trazer proposta de arquitetura inicial)
+- Transação temporizada 
 
 ## sexta
 - Avalianação de resultado da pesquisa sobre campo "não se aplica" nas APIS da fase 2. 

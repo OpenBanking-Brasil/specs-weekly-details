@@ -31,7 +31,7 @@ POST e GET.
 - Avaliação da ussie 169: duvida sobre cenarios de validação assincrona @ https://gitlab.com/obb1/certification/-/issues/169
 
 ```
-Continuação dos debates evolutios dos temas de end2endId para a v2.0
+Continuação dos debates evolutivos dos temas de end2endId para a v2.0
 ```
 
 ## quarta

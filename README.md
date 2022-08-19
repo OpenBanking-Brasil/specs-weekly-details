@@ -2,7 +2,7 @@
 Cronograma e debates de curto prazo que serão tratados nos gt's de specs. 
 
 
-Calendário próxima semana: 
+Calendário semana 22/08 - 26/08 
 
 # segunda
 - Cronograma fase 3 Versão 2.0

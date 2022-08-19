@@ -6,8 +6,20 @@ Se quiser adicionar links, pontos de vista documentação de outros dominíos pa
 Calendário semana 22/08 - 26/08 
 
 # segunda
-- Cronograma fase 3 Versão 2.0.
+- Cronograma fase 3 Versão 2.0
+```
+2.3 - Cronograma já não está desenhando?
+
+```
 - Roadmap longo prazo, estimativas abrangentes para as entregas de:[CONSENTIMENTO ÚNICO (fluxos de consentimento agregado entre fase 2 e 3), PIX AGENDADO, PIX RECORRENTE]
+```
+2.3 
+Consentimento único carece de info
+Pix recorrente carece de info de ux
+Release 1.1-rc tinha o pix-agendamento unico contemplado @ https://openbankingbrasil.atlassian.net/wiki/spaces/OB/pages/48660596/v1.1.0-rc1.0+-+Pagamentos
+
+
+```
 - Contrato Sensedia
 # terça
 - Obrigatoriedade do campo endToEndId no response dos endpoints

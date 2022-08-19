@@ -1,6 +1,7 @@
 # specs-weekly-details
-Cronograma e debates de curto prazo que serão tratados nos gt's de specs. 
 
+Cronograma e debates de curto prazo que serão tratados nos gt's de specs. 
+Este projeto é open source e qualquer pessoa de qualquer gt pode contribuir.
 
 Calendário semana 22/08 - 26/08 
 

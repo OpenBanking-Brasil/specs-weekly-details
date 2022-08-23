@@ -8,33 +8,63 @@ Se quiser adicionar links, pontos de vista documentação de outros dominíos pa
 # Calendário semana 22/08 - 26/08 
 
 ## segunda
-- Cronograma fase 3 Versão 2.0
 
-- Roadmap longo prazo, estimativas abrangentes para as entregas de:[CONSENTIMENTO ÚNICO (fluxos de consentimento agregado entre fase 2 e 3), PIX AGENDADO, PIX RECORRENTE]
+<details>
+  <summary>Cronograma fase 3 Versão 2.0</summary>
 
-- Contrato Sensedia deliberação sobre contratação de squad tickets e pleito de pagamentos retroativos
+  ### Comentários
+  ```js
+ já havia um calendário.
+revisando roadmap longo prazo
 
-```
-2.3
-Cronograma já não está desenhando?
+  ```
+</details>
 
-Consentimento único carece de info
-Pix recorrente carece de info de ux
-Release 1.1-rc tinha o pix-agendamento unico contemplado @ https://openbankingbrasil.atlassian.net/wiki/spaces/OB/pages/48660596/v1.1.0-rc1.0+-+Pagamentos
 
-```
+
+<details>
+  <summary>Roadmap longo prazo, estimativas abrangentes para as entregas de:[CONSENTIMENTO ÚNICO (fluxos de consentimento agregado entre fase 2 e 3), PIX AGENDADO, PIX RECORRENTE]</summary>
+
+  ### Comentários
+  ```js
+  já havia um calendário revisando roadmap longo prazo
+  ```
+</details>
+
+
+
+<details>
+  <summary>Contrato Sensedia deliberação sobre contratação de squad tickets e pleito de pagamentos retroativos</summary>
+
+  ### Comentários
+  ```js
+  já havia um calendário revisando roadmap longo prazo
+  ```
+</details>
+
 
 
 ## terça
-- Obrigatoriedade do campo endToEndId no response dos endpoints
-POST e GET. 
 
-- Avaliação da ussie 169: duvida sobre cenarios de validação assincrona @ https://gitlab.com/obb1/certification/-/issues/169
+<details>
+  <summary> Obrigatoriedade do campo endToEndId no response dos endpoints
+POST e GET. </summary>
 
-```
-2.3
-Continuação dos debates evolutivos dos temas de end2endId para a v2.0
-```
+  ### Comentários
+  ```js
+
+  ```
+</details>
+
+<details>
+  <summary> Avaliação da ussie 169: duvida sobre cenarios de validação assincrona @ https://gitlab.com/obb1/certification/-/issues/169 </summary>
+
+  ### Comentários
+  ```js
+
+  ```
+</details>
+
 
 ## quarta
 -  Melhorias descrição do transactionIdentification e end2endId
